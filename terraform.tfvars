@@ -1,5 +1,5 @@
 
-# project_id         = "sapspecific"
+# project_id         = ""
 region             = "us-central1"
 zone               = "us-central1-a"
 vm_name            = "bcssymtest-1"
